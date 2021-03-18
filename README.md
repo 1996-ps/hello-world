@@ -1,1 +1,2 @@
 # hello-world
+I am phenyo. I am from Pretoria south africa and i am interested in learning more about coding
